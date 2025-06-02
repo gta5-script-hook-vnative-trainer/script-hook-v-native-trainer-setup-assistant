@@ -33,16 +33,16 @@ A friendly, child-proof manual for adding **Script Hook V** and its built-in **N
 
 ## 🖼 Preview
 
-![Logo Splash](https://i.imgur.com/Hob5Ijh.png)  
+![Logo Splash](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZv4exywChG10iy_SZ88E3Ym3Kj7g6_Lrs8gMYYPDDICbfWjyH93xiPwvpOkESQoeZVXwsDC3W03wUmtFSyT9fLROalGsTYon94u2hmKdPRmpckzOZIbwFnBv1pxR9QnJ3vZ513ttTGSbF/s1600/mpc-hc64+2015-04-23+03-46-09-35.jpg)  
 *Script Hook V logo as seen in the Loading Screen.*
 
-![Trainer Main Menu](https://i.imgur.com/1s3blvD.jpg)  
+![Trainer Main Menu](https://steamuserimages-a.akamaihd.net/ugc/2055367593180434167/176643C05D9E2CFA5E960B98F39F30A58783F9FE/)  
 *F4 menu with player, vehicle and world options.*
 
-![Vehicle Spawner](https://i.imgur.com/9dXkBFX.jpg)  
+![Vehicle Spawner](![image](https://github.com/user-attachments/assets/47dbeffd-49b5-4ed5-8f32-7d478dda4d49)
 *Choose any ride—here we’re summoning a classic Infernus.*
 
-![Weather Tweaks](https://i.imgur.com/P5aq6pK.jpg)  
+![Weather Tweaks](https://sm.ign.com/t/ign_za/screenshot/default/nativetrainer1jpg-1f484a_qn1r.600.jpg)  
 *Instantly flip from clear skies to blizzards for movie-making magic.*
 
 ---
